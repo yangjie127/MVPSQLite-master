@@ -5,5 +5,5 @@ package com.fleming.exmaple.mvpsqlite.local;
  */
 
 public class aaaaaaa {
-    public static final  String TAG = "";
+    public static final  String TAG = "yangjie";
 }
